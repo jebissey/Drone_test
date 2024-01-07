@@ -1,0 +1,3 @@
+[submodule "Drone"]
+	path = Drone
+	url = https://github.com/jebissey/Drone.git
